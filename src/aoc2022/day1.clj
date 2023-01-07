@@ -1,3 +1,4 @@
+;; https://adventofcode.com/2022/day/1
 (ns aoc2022.day1
   (:require [clojure.java.io :as io]
             [clojure.string :as string]))
